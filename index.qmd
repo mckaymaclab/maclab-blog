@@ -1,5 +1,6 @@
 ---
 title: "Mac Lab 3D Printing Blog"
+description: Everything you need to know about 3D printing with the Mac Lab
 listing:
   contents: posts
   sort: "date desc"
