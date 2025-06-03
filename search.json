@@ -1,30 +1,23 @@
 [
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "objectID": "posts/what-is-the-mac-lab/index.html",
+    "href": "posts/what-is-the-mac-lab/index.html",
+    "title": "Welcome to the Mac Lab",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Mac Lab 3D Printing Blog",
-    "section": "",
-    "text": "The Mac Lab and 3D printing is a service offered by the David O. McKay Lirbary at Brigham Young University - Idaho. This is where we are going to post more about our 3D printers and how you, as a student or faculty, can use them. We’ll have “How-To’s”, “Feature Updates”, “Cool Prints”, and more!\nFeedback request? Feel free to reach out to us: mckaymaclab@byui.edu\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nJun 3, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMay 31, 2025\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
+    "text": "This is our first post on the Mac Lab blog!\n\n\n\nMac Lab logo\n\n\nThanks for taking the time to check out our blog. We are going to start publishing resources on here about 3D printing. If you have any questions, or guides you would like to see published, please email us at: mckaymaclab@byui.edu"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this blog"
+    "text": "The Mac Lab is a creative space on the BYU-Idaho campus, within the David O. McKay Library. We are primarily an Adobe product help lab, but we have four 3D printers, and they available to anyone on campus.\nWe love to help teach, and educate on how best to use our Prusa 3D printers. For more information click here."
   },
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Mac Lab 3D Printing Blog",
     "section": "",
-    "text": "This is a post with executable code."
+    "text": "The Mac Lab and 3D printing is a service offered by the David O. McKay Lirbary at Brigham Young University - Idaho. This is where we are going to post more about our 3D printers and how you, as a student or faculty, can use them. We’ll have “How-To’s”, “Feature Updates”, “Cool Prints”, and more!\nFeedback request? Feel free to reach out to us: mckaymaclab@byui.edu\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome to the Mac Lab\n\n\n\nintro\n\nmac lab\n\n\n\n\n\n\n\n\n\nJun 3, 2025\n\n\nEthan Glenn\n\n\n\n\n\nNo matching items"
   }
 ]
