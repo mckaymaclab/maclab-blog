@@ -1,0 +1,12 @@
+---
+title: "Welcome to the Mac Lab"
+author: "Ethan Glenn"
+date: "2025-06-3"
+categories: [intro, mac lab]
+---
+
+This is our first post on the Mac Lab blog!
+
+![Mac Lab logo](image.png){ width=100 }
+
+Thanks for taking the time to check out our blog. We are going to start publishing resources on here about 3D printing. If you have any questions, or guides you would like to see published, please email us at: [mckaymaclab@byui.edu](mailto:mckaymaclab@byui.edu)
