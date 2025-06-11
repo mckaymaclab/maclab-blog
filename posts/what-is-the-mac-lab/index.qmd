@@ -1,7 +1,7 @@
 ---
 title: "Welcome to the Mac Lab"
 author: "Ethan Glenn"
-date: "2025-06-3"
+date: "2025-06-03"
 categories: [intro, mac lab]
 ---
 

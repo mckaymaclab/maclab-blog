@@ -15,3 +15,5 @@ title-block-banner: true
 The Mac Lab and 3D printing is a service offered by the [David O. McKay Lirbary](https://library.byui.edu) at [Brigham Young University - Idaho](https://byui.edu). This is where we are going to post more about our 3D printers and how you, as a student or faculty, can use them. We'll have "How-To's", "Feature Updates", "Cool Prints", and more!
 
 Feedback request? Feel free to reach out to us: [mckaymaclab@byui.edu](mailto:mckaymaclab@byui.edu)
+
+## Recent Posts

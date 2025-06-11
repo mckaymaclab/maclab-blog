@@ -1,1 +1,28 @@
 /* css styles */
+
+div.quarto-post {
+    border-bottom: 1px solid #878787;
+}
+
+.thumbnail-image {
+    margin: 0 auto;
+    width: 150px !important;
+    height: 150px !important;
+}
+
+.thumbnail p {
+    margin: 0 !important;
+}
+
+div.quarto-post .thumbnail img {
+    margin: 0 !important;
+}
+
+.title {
+    color: rgb(220, 220, 220) !important;
+}
+
+.quarto-category {
+    color: white;
+    border: 1px solid #bcbcbc;
+}
