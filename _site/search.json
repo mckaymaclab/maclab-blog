@@ -47,5 +47,68 @@
     "title": "Mac Lab 3D Printing Blog",
     "section": "Recent Posts",
     "text": "Recent Posts"
+  },
+  {
+    "objectID": "posts/multi-color-xl/index.html",
+    "href": "posts/multi-color-xl/index.html",
+    "title": "Prusa XL Multi Colored Filament Change",
+    "section": "",
+    "text": "The process of loading and unloading filament on the XL multicolor printer is pretty similar to a normal process of changing filament on the other printers."
+  },
+  {
+    "objectID": "posts/multi-color-xl/index.html#go-to-filament",
+    "href": "posts/multi-color-xl/index.html#go-to-filament",
+    "title": "Prusa XL Multi Colored Filament Change",
+    "section": "1. Go to Filament",
+    "text": "1. Go to Filament\n\n\n\nMain menu"
+  },
+  {
+    "objectID": "posts/multi-color-xl/index.html#select-load-filament",
+    "href": "posts/multi-color-xl/index.html#select-load-filament",
+    "title": "Prusa XL Multi Colored Filament Change",
+    "section": "2. Select Load Filament",
+    "text": "2. Select Load Filament\n\n\n\nFilament menu"
+  },
+  {
+    "objectID": "posts/multi-color-xl/index.html#choose-the-tool-head",
+    "href": "posts/multi-color-xl/index.html#choose-the-tool-head",
+    "title": "Prusa XL Multi Colored Filament Change",
+    "section": "3. Choose the Tool Head",
+    "text": "3. Choose the Tool Head\nYou’ll see this two options where you are going to select the nozzle that you want to put the filament into. In this case, since we only have 2 nozzles (dual extrusion) it only shows 2 tools. For extruder 1 (Tool 1) and extruder 2 (Tool 2).\n\n\n\nTool select menu"
+  },
+  {
+    "objectID": "posts/multi-color-xl/index.html#select-material",
+    "href": "posts/multi-color-xl/index.html#select-material",
+    "title": "Prusa XL Multi Colored Filament Change",
+    "section": "4. Select Material",
+    "text": "4. Select Material\nOnce you have selected the tool that you want to load with filament you will see the material options and choose your material (PLA, PETG,etc.)\n\n\n\nMaterial selection menu"
+  },
+  {
+    "objectID": "posts/multi-color-xl/index.html#where-to-load-the-filament",
+    "href": "posts/multi-color-xl/index.html#where-to-load-the-filament",
+    "title": "Prusa XL Multi Colored Filament Change",
+    "section": "5. Where to Load the Filament",
+    "text": "5. Where to Load the Filament\nGo to the left part of the printer where you will see the following.\n\n\n\nFilament loading area\n\n\nEach straw has a number next to it. Look for the one that has the number of the tool that you chose earlier. Then, insert the filament into the straw until you hear a buzz sound. Then click accept and wait until it the printer purges filament out."
+  },
+  {
+    "objectID": "posts/multi-color-xl/index.html#repeat-the-process-for-additional-colors",
+    "href": "posts/multi-color-xl/index.html#repeat-the-process-for-additional-colors",
+    "title": "Prusa XL Multi Colored Filament Change",
+    "section": "6. Repeat the Process for Additional Colors",
+    "text": "6. Repeat the Process for Additional Colors\nRepeat steps 2 through 5 for adding an additional color."
+  },
+  {
+    "objectID": "posts/multi-color-xl/index.html#starting-the-print",
+    "href": "posts/multi-color-xl/index.html#starting-the-print",
+    "title": "Prusa XL Multi Colored Filament Change",
+    "section": "7. Starting the Print",
+    "text": "7. Starting the Print\nWhen you go to start the actual print the Prusa software helps confirm that you loaded the filament the right by showing a small image of the colored print.\n\n\n\nPrint confirmation screen\n\n\nIn this case the orange part is my tool 1 and the pink is tool 2.\n\nNote: These are not the actual colors I loaded, these are reference default colors.\n\n\n\n\nFilament confirmation screen"
+  },
+  {
+    "objectID": "posts/multi-color-xl/index.html#unloading-filament",
+    "href": "posts/multi-color-xl/index.html#unloading-filament",
+    "title": "Prusa XL Multi Colored Filament Change",
+    "section": "8. Unloading Filament",
+    "text": "8. Unloading Filament\nTo unload the filament select Unload Filament then the tool head number, and unload like you normally would."
   }
 ]
