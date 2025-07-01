@@ -1,0 +1,78 @@
+---
+title: "Prusa Connect"
+author: "Brandon Hagerman"
+date: "2025-07-01"
+categories: [prusa-connect]
+---
+
+Prusa Connect is a software that connects the Prusa printers to our computers via the internet. Prusa Connect can be accessed through their website [https://connect.prusa3d.com](https://connect.prusa3d.com/) or through the Prusa Slicer program. 
+
+- [Accessing Prusa Connect](#accessing)
+- [Printer Queues](#queues)
+- [Connect Files](#connect-files)
+- [Printing Files](#bookmark=id.o2fop2muawqg)
+- [Help & Forum](#bookmark=id.7ktddwa3dp2f)
+
+<h1 id="accessing">Accessing Prusa Connect</h1>
+
+This is the view from the website.   
+
+![Prusa connect dashboard page](image.png)
+
+This is from Prusa Slicer  
+
+![](image2.png)
+
+To access Prusa Connect, you need to be logged into the Mac Lab account.   
+
+![](image3.png)
+
+Prusa Connect can be accessed 2 different ways from within the Prusa Slicer application. There is the Prusa Connect tab at the top bar. It can also be accessed after slicing a model. Send to Connect directly sends the G-code to the printers. (Export G-code allows you to download the G-code to your computer).
+
+![](image4.png)
+
+<h1 id="queues">Printer Queues</h1>
+
+Prusa Connect shows the following:
+
+* Printer status  
+* Print completion percentage  
+* The file currently being printed  
+* Remaining time left in print  
+* Estimated completion time  
+* Printer name  
+* Print material  
+* Nozzle type
+
+The queue also contains buttons to pause / resume and stop prints. 
+
+<h1 id="connect-files">Connect Files</h1>
+
+The Connect Files tab is where you can upload files to send to the printers. Prusa also saves up to 1 GB of files. You can see previous print files in this section.
+
+![](image5.png)
+
+Connect Files comes with useful filter options to find previously used files more efficiently. 
+
+<h1 id="printing-files">Printing Files</h1>
+
+After a file has been sliced, you can directly send the G-Code to the printer using Prusa Connect. This can be done 2 different ways. The first way is to select the specific printer.   
+The printer needs to be on and set up before a file can be sent.
+
+![](image6.png)
+
+Make sure to clean the print plate and click Set ready. After it is clean, click on the printer. A dashboard for the printer will then open.
+
+![](image7.png)
+
+Upload the G-Code using the Upload a file. It will show up to the right as the latest file uploads. Click print and it will start printing. If you need to reprint a previous file, you can do so by scrolling down and using the print history section. 
+
+The other way to print a file from Prusa Connect is by going to the Connect Files tab. Upload your file and it will appear in the list.   
+
+![](image8.png)
+
+Locate your file and click print. This will bring up a print confirmation dialogue and you can change any print settings.   
+
+<h1 id="help-forum">Help & Forum</h1>
+
+The additional 2 tabs are rarely used. They link to Prusa's official documentation and other resources. These sections make my article redundant. There are plenty of articles from printers, 3D models, slicing, materials and more. 
