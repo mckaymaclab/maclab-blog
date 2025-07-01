@@ -1,26 +1,5 @@
 [
   {
-    "objectID": "posts/what-is-the-mac-lab/index.html",
-    "href": "posts/what-is-the-mac-lab/index.html",
-    "title": "Welcome to the Mac Lab",
-    "section": "",
-    "text": "This is our first post on the Mac Lab blog!\n\n\n\nMac Lab logo\n\n\nThanks for taking the time to check out our blog. We are going to start publishing resources on here about 3D printing. If you have any questions, or guides you would like to see published, please email us at: mckaymaclab@byui.edu"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Mac Lab 3D Printing Blog",
-    "section": "",
-    "text": "The Mac Lab and 3D printing is a service offered by the David O. McKay Lirbary at Brigham Young University - Idaho. This is where we are going to post more about our 3D printers and how you, as a student or faculty, can use them. We’ll have “How-To’s”, “Feature Updates”, “Cool Prints”, and more!\nFeedback request? Feel free to reach out to us: mckaymaclab@byui.edu"
-  },
-  {
-    "objectID": "index.html#recent-posts",
-    "href": "index.html#recent-posts",
-    "title": "Mac Lab 3D Printing Blog",
-    "section": "Recent Posts",
-    "text": "Recent Posts"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -89,5 +68,33 @@
     "title": "Prusa XL Multi Colored Filament Change",
     "section": "8. Unloading Filament",
     "text": "8. Unloading Filament\nTo unload the filament select Unload Filament then the tool head number, and unload like you normally would."
+  },
+  {
+    "objectID": "posts/prusa-connect/index.html",
+    "href": "posts/prusa-connect/index.html",
+    "title": "Prusa Connect",
+    "section": "",
+    "text": "Prusa Connect is a software that connects the Prusa printers to our computers via the internet. Prusa Connect can be accessed through their website https://connect.prusa3d.com or through the Prusa Slicer program.\n\nAccessing Prusa Connect\nPrinter Queues\nConnect Files\nPrinting Files\nHelp & Forum\n\n\nAccessing Prusa Connect\n\nThis is the view from the website.\n\n\n\nPrusa connect dashboard page\n\n\nThis is from Prusa Slicer\n\nTo access Prusa Connect, you need to be logged into the Mac Lab account.\n\nPrusa Connect can be accessed 2 different ways from within the Prusa Slicer application. There is the Prusa Connect tab at the top bar. It can also be accessed after slicing a model. Send to Connect directly sends the G-code to the printers. (Export G-code allows you to download the G-code to your computer).\n\n\nPrinter Queues\n\nPrusa Connect shows the following:\n\nPrinter status\n\nPrint completion percentage\n\nThe file currently being printed\n\nRemaining time left in print\n\nEstimated completion time\n\nPrinter name\n\nPrint material\n\nNozzle type\n\nThe queue also contains buttons to pause / resume and stop prints.\n\nConnect Files\n\nThe Connect Files tab is where you can upload files to send to the printers. Prusa also saves up to 1 GB of files. You can see previous print files in this section.\n\nConnect Files comes with useful filter options to find previously used files more efficiently.\n\nPrinting Files\n\nAfter a file has been sliced, you can directly send the G-Code to the printer using Prusa Connect. This can be done 2 different ways. The first way is to select the specific printer.\nThe printer needs to be on and set up before a file can be sent.\n\nMake sure to clean the print plate and click Set ready. After it is clean, click on the printer. A dashboard for the printer will then open.\n\nUpload the G-Code using the Upload a file. It will show up to the right as the latest file uploads. Click print and it will start printing. If you need to reprint a previous file, you can do so by scrolling down and using the print history section.\nThe other way to print a file from Prusa Connect is by going to the Connect Files tab. Upload your file and it will appear in the list.\n\nLocate your file and click print. This will bring up a print confirmation dialogue and you can change any print settings.\n\nHelp & Forum\n\nThe additional 2 tabs are rarely used. They link to Prusa’s official documentation and other resources. These sections make my article redundant. There are plenty of articles from printers, 3D models, slicing, materials and more."
+  },
+  {
+    "objectID": "posts/what-is-the-mac-lab/index.html",
+    "href": "posts/what-is-the-mac-lab/index.html",
+    "title": "Welcome to the Mac Lab",
+    "section": "",
+    "text": "This is our first post on the Mac Lab blog!\n\n\n\nMac Lab logo\n\n\nThanks for taking the time to check out our blog. We are going to start publishing resources on here about 3D printing. If you have any questions, or guides you would like to see published, please email us at: mckaymaclab@byui.edu"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Mac Lab 3D Printing Blog",
+    "section": "",
+    "text": "The Mac Lab and 3D printing is a service offered by the David O. McKay Lirbary at Brigham Young University - Idaho. This is where we are going to post more about our 3D printers and how you, as a student or faculty, can use them. We’ll have “How-To’s”, “Feature Updates”, “Cool Prints”, and more!\nFeedback request? Feel free to reach out to us: mckaymaclab@byui.edu"
+  },
+  {
+    "objectID": "index.html#recent-posts",
+    "href": "index.html#recent-posts",
+    "title": "Mac Lab 3D Printing Blog",
+    "section": "Recent Posts",
+    "text": "Recent Posts"
   }
 ]
