@@ -10,8 +10,8 @@ Prusa Connect is a software that connects the Prusa printers to our computers vi
 - [Accessing Prusa Connect](#accessing)
 - [Printer Queues](#queues)
 - [Connect Files](#connect-files)
-- [Printing Files](#bookmark=id.o2fop2muawqg)
-- [Help & Forum](#bookmark=id.7ktddwa3dp2f)
+- [Printing Files](#printing-files)
+- [Help & Forum](#help-forum)
 
 <h1 id="accessing">Accessing Prusa Connect</h1>
 
